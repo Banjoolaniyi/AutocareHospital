@@ -1,0 +1,10 @@
+Data Analyst, AutoCare Hospital.
+
+
+Business Problem:
+1. Total Discharges
+2. Average daily discharges rate
+3. Average length of stay
+4. Distribution of discharges by Age group.
+5. Distribution of discharges by Gender.
+  Distribution of discharges by day of the week.
